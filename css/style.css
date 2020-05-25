@@ -1,0 +1,19 @@
+.countries-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.favorites-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.country-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
